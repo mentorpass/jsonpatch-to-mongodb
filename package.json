@@ -19,6 +19,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "dependencies": {},
   "devDependencies": {
     "chai": "^3.5.0",
