@@ -1,6 +1,6 @@
 {
   "name": "@mentorpass/jsonpatch-to-mongodb",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Convert JSON patches into a MongoDB update",
   "author": "Published & Maintained by Lawson Taylor, original repo Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
   "license": "MIT",
