@@ -1,13 +1,13 @@
 {
-  "name": "jsonpatch-to-mongodb",
-  "version": "0.3.0",
+  "name": "@mentorpass/jsonpatch-to-mongodb",
+  "version": "0.3.1",
   "description": "Convert JSON patches into a MongoDB update",
-  "author": "Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
+  "author": "Published & Maintained by Lawson Taylor, original repo Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
   "license": "MIT",
-  "homepage": "http://github.com/mongodb-js/jsonpatch-to-mongodb",
+  "homepage": "http://github.com/mentorpass/jsonpatch-to-mongodb",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mongodb-js/jsonpatch-to-mongodb.git"
+    "url": "git://github.com/mentorpass/jsonpatch-to-mongodb.git"
   },
   "keywords": [
     "mongodb.js",
@@ -16,6 +16,7 @@
     "jsonpatch",
     "json patch mongodb"
   ],
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -26,5 +27,12 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "~3.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/mentorpass/jsonpatch-to-mongodb/issues"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
   }
 }
